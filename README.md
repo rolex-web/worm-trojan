@@ -1,0 +1,1 @@
+worm trojan kinda the same steps as token grabber all u do is open the worm trojan file then it makes a folder with a 2 files inside one says word which is what u want to spread around the pc and the other is what the worm trojan it self
